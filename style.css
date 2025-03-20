@@ -1,3 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     background-color: rgb(182, 94, 35);
+    color:aquamarine
+}
+strong{
+    color: rgb(7, 7, 7);
+}
+
+main{
+display: flex;
+padding: 0 300px 0 300px;
+}
+
+p{
+    margin: 40px 0 150px 0;
+    font-size: 40px;
+}
+header, footer{
+    height: 150px ;
 }
